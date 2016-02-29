@@ -9,5 +9,6 @@ build:
   ci:
     - node --version
     - ls -al /tmp/cexec
+    - cat /tmp/cexec/message.json
     
   
